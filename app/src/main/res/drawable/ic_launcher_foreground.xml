@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Base Document Shadow -->
+    <path
+        android:fillColor="#26000000"
+        android:pathData="M37,28 L67,28 L79,40 L79,84 L37,84 Z" />
+
+    <!-- Main White Document Page with Folded Corner -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,26 L64,26 L76,38 L76,82 L35,82 Z" />
+
+    <!-- Folded Corner Flap -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M64,26 L76,38 L64,38 Z" />
+
+    <!-- Corner Flap Shadow -->
+    <path
+        android:fillColor="#334338CA"
+        android:pathData="M64,38 L76,38 L64,40 Z" />
+
+    <!-- Image Thumbnail / Preview Card on Page -->
+    <!-- Photo background card -->
+    <path
+        android:fillColor="#4338CA"
+        android:pathData="M40,38 L60,38 A2,2 0 0,1 62,40 L62,56 A2,2 0 0,1 60,58 L40,58 A2,2 0 0,1 38,56 L38,40 A2,2 0 0,1 40,38 Z" />
+
+    <!-- Sun in Photo -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M56,43m-2,0a2,2 0 1,0 4,0a2,2 0 1,0 -4,0" />
+
+    <!-- Mountain 1 in Photo -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M39,56 L47,47 L53,53 L51,56 Z" />
+
+    <!-- Mountain 2 in Photo -->
+    <path
+        android:fillColor="#A5B4FC"
+        android:pathData="M48,56 L55,49 L61,56 Z" />
+
+    <!-- Document text lines -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M40,64 L68,64 A1,1 0 0,1 68,66 L40,66 A1,1 0 0,1 40,64 Z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M40,70 L58,70 A1,1 0 0,1 58,72 L40,72 A1,1 0 0,1 40,70 Z" />
+
+    <!-- Red "PDF" Badge Accent at bottom right -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M52,60 L78,60 A3,3 0 0,1 81,63 L81,77 A3,3 0 0,1 78,80 L52,80 A3,3 0 0,1 49,77 L49,63 A3,3 0 0,1 52,60 Z" />
+
+    <!-- "PDF" stylized lettering cutouts on red badge -->
+    <!-- P -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,65 L58,65 A2.5,2.5 0 0,1 58,70 L56,70 L56,75 L54,75 Z M56,67 L56,68.5 L57.8,68.5 A0.8,0.8 0 0,0 57.8,67 Z" />
+    <!-- D -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,65 L64,65 A4,4 0 0,1 68,69 L68,71 A4,4 0 0,1 64,75 L61,75 Z M63,67 L63,73 L64,73 A2,2 0 0,0 66,71 L66,69 A2,2 0 0,0 64,67 Z" />
+    <!-- F -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,65 L76,65 L76,67 L72,67 L72,69 L75.5,69 L75.5,71 L72,71 L72,75 L70,75 Z" />
+
+    <!-- Luminous Sparkle Star (top left) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M31,24 L32.5,28.5 L37,30 L32.5,31.5 L31,36 L29.5,31.5 L25,30 L29.5,28.5 Z" />
+</vector>

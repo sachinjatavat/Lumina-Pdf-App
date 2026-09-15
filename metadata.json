@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Convert",
+  "description": "All-in-one on-device PDF and document toolkit with built-in viewer and editor for PDF, Word, text, and images, camera scanner, and watermark generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
